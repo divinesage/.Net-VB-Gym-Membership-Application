@@ -1,0 +1,141 @@
+E:\COP4005\VBExerClub\VBExerClub\bin\Debug\VBExerClub.exe.config
+E:\COP4005\VBExerClub\VBExerClub\bin\Debug\VBExerClub.exe
+E:\COP4005\VBExerClub\VBExerClub\bin\Debug\VBExerClub.pdb
+E:\COP4005\VBExerClub\VBExerClub\bin\Debug\VBExerClub.xml
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.exe
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.xml
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.pdb
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\bin\Debug\VBExerClub.exe.config
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.exe
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.xml
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.pdb
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmMember_old.resources
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\bin\Debug\VBExerClub.exe
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\bin\Debug\VBExerClub.pdb
+C:\Users\Melba\Documents\Visual Studio 2013\Projects\VBExerClub\VBExerClub\bin\Debug\VBExerClub.xml
+E:\COP4005\VBExerClub\VBExerClub\obj\Debug\VBExerClub.frmMember_old.resources
+E:\COP4005\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+E:\COP4005\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+E:\COP4005\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+E:\COP4005\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember_old.resources
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+E:\COP4005\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmPayment.resources
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01.mdf
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01_log.ldf
+C:\Users\Melba\Source\Workspaces\VBExerClub\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbprojResolveAssemblyReference.cache
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01.mdf
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01_log.ldf
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbprojResolveAssemblyReference.cache
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmPayment.resources
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+C:\Users\Melba\Documents\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+E:\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+E:\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01.mdf
+E:\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01_log.ldf
+E:\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+E:\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+E:\Group Project\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbprojResolveAssemblyReference.cache
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmPayment.resources
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01.mdf
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01_log.ldf
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbprojResolveAssemblyReference.cache
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmPayment.resources
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+C:\Users\Melba\Documents\Dropbox\SCHOOL\COP 4005 Win Prog\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmLogin.resources
+E:\Group Project\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmStatement.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01.mdf
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01_log.ldf
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmLogin.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmPayment.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmStatement.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+C:\Users\alex\Desktop\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe.config
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.exe
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.xml
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.pdb
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01.mdf
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClubDBU01_log.ldf
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.exe
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.pdb
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\bin\Debug\VBExerClub.xml
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmLogin.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMain.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmMember.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmPayment.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmProgram.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.frmStatement.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.Resources.resources
+C:\Users\alex\Desktop\Projects\VBExerClub - Group\VBExerClub\obj\Debug\VBExerClub.vbproj.GenerateResource.Cache
