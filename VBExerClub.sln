@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
+# Test
+# Test3
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBExerClub", "VBExerClub\VBExerClub.vbproj", "{2326143A-CE38-4B9A-BA40-4C240372E733}"
